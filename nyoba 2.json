@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5aa"
+  },
+  "Judul": "Supertalent Academy",
+  "Penulis": "Najma Fatimah",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2017
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5ab"
+  },
+  "Judul": "The Miracle of Saman Dance",
+  "Penulis": "Aurada Tsaqofa Hidayat",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2014
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5ac"
+  },
+  "Judul": "The Secret School",
+  "Penulis": "Elmi Aini Maliki",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2014
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5ad"
+  },
+  "Judul": "Mysterious Girl",
+  "Penulis": "Laksita Judith Tabina",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2014
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5ae"
+  },
+  "Judul": "My Dear Violin",
+  "Penulis": "Riza Dwita Auldina",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2017
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5af"
+  },
+  "Judul": "Indahnya Langit Kanazawa",
+  "Penulis": "Adila Tsabita Suryo Kusumo",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2015
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5b0"
+  },
+  "Judul": "The Jounalist Group",
+  "Penulis": "Sausan Najda Andriani",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2014
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5b1"
+  },
+  "Judul": "Eiffel Cooking Battle",
+  "Penulis": "Zakia Artanti Ratnadewi",
+  "Penerbit": "DAR! Mizan",
+  "Tempat Terbit": "Bandung",
+  "Tahun Terbit": 2017
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5b2"
+  },
+  "Judul": "Kabur Dari Istana",
+  "Penulis": [
+    "Tethy Ezokanzo",
+    "Wahyu Annisha"
+  ],
+  "Penerbit": "AL-KAUTSAR KIDS",
+  "Tempat Terbit": "Jakarta",
+  "Tahun Terbit": 2014
+},
+{
+  "_id": {
+    "$oid": "6765235f910507f0dbf8d5b3"
+  },
+  "Judul": "Home",
+  "Penulis": "Iva Afianti",
+  "Penerbit": "DIVA Press",
+  "Tempat Terbit": "Jogjakarta",
+  "Tahun Terbit": 2013
+}]
